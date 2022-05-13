@@ -1,17 +1,15 @@
-# TEST CASES and Corresponding Output
-# High Level Test Cases
-| Test ID | Description | Exp.i/p | Exp.o/p | Actual o/p | STATUS | 
-| --------|:------------|:--------|:--------|:-----------|:-------------| 
-| 1 | check if the BUTTTON is pressed | program execution | Microcontroller/Engine starts | LED ON(RED)| PASS | 
-| 2 | check if the BUTTTON is pressed | program execution | WIPER starts | LED ON(BLUE)| PASS | 
-| 3 | check if the BUTTTON is pressed | program execution | WIPER starts | LED ON(GREEN)| PASS | 
-| 4 | check if the BUTTTON is pressed | program execution | WIPER starts | LED ON(ORANGE)| PASS | 
-| 5 | check if the BUTTTON is pressed | - | Microcontroller/Engine stops | LED TURNED OFF| PASS | 
-# LOW LEVEL TEST CASE
- | Test ID | Description | Exp.i/p | Exp.o/p | Actual o/p | STATUS | 
- | --------|:------------|:--------|:--------|:-----------|:-------------| 
- | 1 | check if the BUTTTON is pressed | program execution | Microcontroller/Engine starts | LED ON(RED)| PASS |
- | 2 | check if the BUTTTON is pressed again | program execution | WIPER starts and speed of wiper is slow | LED ON(BLUE) | PASS |
- | 3 | check if the BUTTTON is pressed again | program execution | WIPER starts and speed of wiper is moderate | LED ON(GREEN) | PASS |
- | 4 | check if the BUTTTON is pressed again | program execution | program execution	WIPER starts and speed of wiper is good | PASS |
- | 5 | check if the BUTTTON is pressed again | - | Microcontroller/Engine stops |	LED TURNED OFF | PASS |
+# Test Plan
+## High Level Test Plan
+
+| Test ID| Description | Exp I/P | Exp O/P | Status |
+| -------| ----------- | ------- | ------- | ------ |
+| H_01 | DEVELOPMENT OF .elf file    | .C file | .elf| Implemented |
+| H_02 | File Cross  Compilation  | Converting .c file to target output | .elf or .hex   | Implemented |
+| H_03 | Search components in STM32 CUBE IDE |  Components  | Assembling     | Implemeted  |
+
+## Low Level Test Plan
+
+| Test ID| Description | Exp I/P | Exp O/P | Status |
+| -------| ----------- | ------- | ------- | ------ |
+| L_01 | DONT STOP WIPER AT MIDDLE OF WINDSHEILD  | RAIN CONDITION | ADVERSE WEATHER | Implemented |
+| L_02 | SERIAL WISE LED GLOW REGULATION | DONE | whenever required | Implemented |
