@@ -1,7 +1,9 @@
-INTRODUCTION 
+INTRODUCTION
+A windshield wiper, also known as a wiper blade, is a device that cleans the front window of a car of rain, snow, ice, washer fluid, and water.
+Wipers of this type are mounted on all heavy motor vehicles, including cars, trucks, locomotives, and certain aeroplanes.
 
-A windshield wiper or wiper blade is a device which is used to remove rain water, snow, ice from a vehicle's front window.
-Every heavy motor vehicles such as cars, heavy trucks , train locomotives and some aircrafts are installed with such wipers .
-After reading several research papers , I understood that safety requirements under bad weather conditions is necessary even at low speed also for motor vehicles and therefore I started making wiper control system using arm based microcontrollers.
-It consists of rubber blades attached at its metal arms with pivot magnets at its other ends.
-Finally this project application helps users in day to day life and prevents accidents and allows safe journey.
+After reading various research articles, I realised that safety standards for motor vehicles in inclement weather are required even at low speeds, therefore I began designing a wiper control system employing arm-based microcontrollers.
+
+Rubber blades are affixed to the metal arms and pivot magnets are attached to the other ends.
+
+Finally, our project application aids users in their daily lives by preventing accidents and facilitating safe and healthy travel.
