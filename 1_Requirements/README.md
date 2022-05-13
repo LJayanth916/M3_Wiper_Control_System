@@ -1,30 +1,29 @@
-INTRODUCTION
+# INTRODUCTION
 
-A windshield wiper or wiper blade is a device which is used to remove rain water, snow, ice from a vehicle's front window.
-Every heavy motor vehicles such as cars, heavy trucks , train locomotives and some aircrafts are installed with such wipers .
-After reading several research papers , I understood that safety requirements under bad weather conditions is necessary even at low speed also for motor vehicles and therefore I started making wiper control system using arm based microcontrollers.
-It consists of rubber blades attached at its metal arms with pivot magnets at its other ends.
-Finally this project application helps users in day to day life and prevents accidents and allows safe journey.
+A windshield wiper, also known as a wiper blade, is a device that cleans the front window of a car of rain, snow, ice, washer fluid, and water.Wipers of this type are mounted on all heavy motor vehicles, including cars, trucks, locomotives, and certain aeroplanes.After reading various research articles, I realised that safety standards for motor vehicles in inclement weather are required even at low speeds, therefore I began designing a wiper control system employing arm-based microcontrollers.Rubber blades are affixed to the metal arms and pivot magnets are attached to the other ends.Finally, our project application aids users in their daily lives by preventing accidents and facilitating safe and healthy travel.
 
-## RESEARCH
-This application is researched from various sources (like google and many research papers ) and then I have modified into successful working model application of wiper control system using arm based microcontroller. 
+## THE STUDY
+This application was derived from a variety of sources (including Google and numerous research articles) and then adapted into a functioning model application of wiper control utilising an arm-based microcontroller.
 
-## END GOAL
-- Clear vision in adverse weather conditions .
-- Avoid accidents and ensure safety with latest mechanism.
+## FINAL GOAL 
+- Clear vision in inclement weather. 
+- With the latest mechanism, you may avoid mishaps and secure your safety.
 
-### Who
--   Everyone who wants safety and clear vision of road in driving using motor vehicles.
-### What
--   Wiper Control System for motor vehicles.
-### Why
--   Curious about carrier in embedded system . 
+### Who 
+- Anyone who values road safety and good vision when driving a car.
+
+### What is it? 
+- A vehicle's wiper control system.
+
 ### When 
--   When you understand the importance of safety management and start to be accountable for your health during driving motor vehicles in unfavourable weather conditions.
+- When you realise the necessity of safety management and begin to take responsibility for your own health while driving in inclement weather. 
+
 ### Where
--   This can be  used by the user in day to day life where they can track their safety and  generate better results in life during travelling via motor vehicles  .
-### How
--   LED shows the position of wiper and it will return to the original position after cleaning windsheet of motor vehicles  .
+ - The user can utilise this in their day-to-day lives to track their safety and produce better results in life while travelling by motor vehicle.
+
+### How 
+- After wiping the windsheet of a car, the LED reveals the position of the wiper and returns to its original position.
+
 ## Detail requirements
 
 ## High Level Requirements
