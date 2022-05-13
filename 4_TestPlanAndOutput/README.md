@@ -5,7 +5,7 @@
 | -------| ----------- | ------- | ------- | ------ |
 | H_01 | DEVELOPMENT OF .elf file    | .C file | .elf| Implemented |
 | H_02 | File Cross  Compilation  | Converting .c file to target output | .elf or .hex   | Implemented |
-| H_03 | Search components in STM32 CUBE IDE |  Components  | Assembling     | Implemeted  |
+| H_03 | Search components in STM32 CUBE IDE |  Components  | Assembling     | Implemented  |
 
 ## Low Level Test Plan
 
